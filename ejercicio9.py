@@ -1,3 +1,9 @@
+""""
+Escriba un programa en Python para calcular el número de días entre dos fechas.
+Fechas de muestra: (2014, 7, 2), (2014, 7, 11)
+
+"""
+
 data1 = (2014, 7, 2)
 data2 = (2014, 7, 11)
 list = []

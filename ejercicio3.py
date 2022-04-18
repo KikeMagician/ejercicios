@@ -1,3 +1,5 @@
+#Invierte el nombre y apellidos y los imprime
+
 n = input('nombre')
 a = input('apellido')
 rev_n = n[::-1]

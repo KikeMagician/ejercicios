@@ -1,3 +1,8 @@
+"""
+Escriba un programa de Python para imprimir todos los números pares de una lista de números dada en el mismo orden
+ y detenga la impresión si aparece algún número después de 237
+"""
+
 numbers = [
     386, 462, 47, 418, 907, 344, 236, 375, 823, 566, 597, 978, 328, 615, 953, 345,
     399, 162, 758, 219, 918, 237, 412, 566, 826, 248, 866, 950, 626, 949, 687, 217,
